@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="unstableparty"
+version="1.0.0"
+displayName="Unstable Party"
+authors="Austin"
+description='''Custom title screen, panorama, splash texts, loading screen and ash grey UI for Unstable Party.'''
+
+[[dependencies.unstableparty]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.unstableparty]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="CLIENT"
