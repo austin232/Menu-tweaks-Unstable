@@ -4,7 +4,7 @@ license="All Rights Reserved"
 
 [[mods]]
 modId="unstableparty"
-version="1.0.3"
+version="1.0.4"
 displayName="Unstable Party"
 authors="Austin"
 description='''Custom title screen, panorama, splash texts, loading screen and ash grey UI for Unstable Party.'''
